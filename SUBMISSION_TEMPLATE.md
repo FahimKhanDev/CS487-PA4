@@ -19,7 +19,7 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 | Roll Number | 24030015 |
 | GitHub Repository URL | https://github.com/FahimKhanDev/CS487-PA4 |
 | Resource Group | `rg-sp26-24030015` |
-| Assigned Region | TODO: `uaenorth` or `ukwest` |
+| Assigned Region | `Sweden Central` |
 
 ## Evidence Rules
 
