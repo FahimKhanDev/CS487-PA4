@@ -15,10 +15,10 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 
 | Field | Value |
 |---|---|
-| Name | TODO |
-| Roll Number | TODO |
-| GitHub Repository URL | TODO |
-| Resource Group | `rg-sp26-TODO` |
+| Name | Faheem Ali Khan |
+| Roll Number | 24030015 |
+| GitHub Repository URL | https://github.com/FahimKhanDev/CS487-PA4 |
+| Resource Group | `rg-sp26-24030015` |
 | Assigned Region | TODO: `uaenorth` or `ukwest` |
 
 ## Evidence Rules
@@ -35,8 +35,9 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 ### Evidence 1.1: Forked Repository
 
 TODO: Embed screenshot of your forked GitHub repository.
+![Forked Github](docs/forked_working_repo.png)
 
-Description: TODO: Explain that this is your working fork and that it contains the PA4 starter structure.
+Description:This is my working GitHub repository (forked from KarmaMS/CS487-PA4): Starter repository for CS487 PA4, an Azure TaskFlow pipeline using App Service, Durable Functions, AKS, ACI, Blob Storage, and ACR.
 
 ### Evidence 1.2: App Service Overview
 
