@@ -37,7 +37,7 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 TODO: Embed screenshot of your forked GitHub repository.
 ![Forked Github](docs/forked_working_repo.png)
 
-Description:This is my working GitHub repository (forked from KarmaMS/CS487-PA4): Starter repository for CS487 PA4, an Azure TaskFlow pipeline using App Service, Durable Functions, AKS, ACI, Blob Storage, and ACR.
+Description:This is my working GitHub repository (forked from KarmaMS/CS487-PA4): Starter repository for CS487 PA4, an Azure TaskFlow pipeline using App Service, Durable Functions, AKS, ACI, Blob Storage, and ACR. test commit
 
 ### Evidence 1.2: App Service Overview
 
